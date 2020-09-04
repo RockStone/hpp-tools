@@ -1,0 +1,11 @@
+name: hpp-tools
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - jupyterlab
+  - datashader
+  - holoviews
+  - vaex
+  - numpy
+  - pip
